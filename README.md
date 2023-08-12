@@ -1,2 +1,2 @@
 # Assignement-8
-javascript questions
+JavaScript Question
