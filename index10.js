@@ -11,8 +11,6 @@ else if(mon=="2")
  console.log("28 or 29 Days ")
 
 
-
-
    else{
       console.log("Invalid Month")
    }
